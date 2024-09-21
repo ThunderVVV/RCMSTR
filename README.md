@@ -7,8 +7,10 @@
 <sup>1</sup>MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University <br>
 <sup>2</sup>Hong Kong Polytechnic University
 
+<img src="assets/framework.png" width="700">
+
 </div>
 
-<img src="assets/framework.png" width="700">
+
 
 Code is coming soon.
